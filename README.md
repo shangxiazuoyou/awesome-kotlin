@@ -23,6 +23,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
 
+[Android开发技术周报特刊之 Kotlin Issue#0](http://www.androidweekly.cn/android-dev-special-weekly-kotlin-issue-0/#jtss-tsina/)
+
+[Kotlin Swift对比学习](http://www.jianshu.com/p/c5007d609b53)
+
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
 ### GitHub

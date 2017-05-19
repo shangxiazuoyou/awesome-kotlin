@@ -1,7 +1,7 @@
 # awesome-kotlin
 A curated list of awesome Kotlin libraries and projects.
 
-[GitHub Kotlin](https://github.com/JetBrains/kotlin)
+[Kotlin官方GitHub地址](https://github.com/JetBrains/kotlin)
 
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
@@ -19,16 +19,22 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Primer系列](https://kymjs.com/code/2017/02/03/01/)
 
+[让你的代码量减少3倍系列](http://androidwing.net/index.php/89)
+
+[使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
+
+[《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
+
 ### GitHub
-[Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/) Kotlin 视频教程
+[Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/) -Kotlin 视频教程
 
-[FanfouHandpick](https://github.com/TonnyL/FanfouHandpick/) 饭否精选APP
+[FanfouHandpick](https://github.com/TonnyL/FanfouHandpick/) -饭否精选APP
 
-[GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin/) 干货集中营APP
+[GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin/) -干货集中营APP
 
-[PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin/) 简单漫画APP
+[PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin/) -简单漫画APP
 
-[RxKotlin](https://github.com/ReactiveX/RxKotlin/) RxKotlin 函数式编程
+[RxKotlin](https://github.com/ReactiveX/RxKotlin/) -RxKotlin 函数式编程
 
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具

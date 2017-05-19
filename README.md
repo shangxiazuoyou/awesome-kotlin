@@ -15,10 +15,21 @@ A curated list of awesome Kotlin libraries and projects.
 
 [using-kotlin-for-android-development](http://itangqi.me/2017/03/28/using-kotlin-for-android-development/)
 
-### GitHub
-[Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/)
+[Kotlin Primer系列](https://kymjs.com/code/2017/02/03/01/)
 
-[FanfouHandpick](https://github.com/TonnyL/FanfouHandpick/)
+### GitHub
+[Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/) Kotlin 视频教程
+
+[FanfouHandpick](https://github.com/TonnyL/FanfouHandpick/) 饭否精选APP
+
+[GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin/) 干货集中营APP
+
+[PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin/) 简单漫画APP
+
+[RxKotlin](https://github.com/ReactiveX/RxKotlin/) RxKotlin 函数式编程
+
+### 构建工具
+[kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 
 
 ###### 注：以上排名不分先后，只因时间先后顺序。

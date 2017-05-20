@@ -27,6 +27,12 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Swift对比学习](http://www.jianshu.com/p/c5007d609b53)
 
+[连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
+
+[人生苦短，须用Kotlin](http://iaspen.cn/2017/05/19/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD%EF%BC%8C%E9%A1%BB%E7%94%A8Kotlin/#more)
+
+[谷歌宣布Kotlin成安卓开发一级语言，我们如何来学习它](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484919&idx=1&sn=a5515ee4ecfae912ff612295f36a0bf9&chksm=eae1f0a5dd9679b356287bd71fe3b8f95019c57e14dd3dee8ec9e8b0d3f03e1bc1870cc69066#rd)
+
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
 ### GitHub

@@ -33,6 +33,14 @@ A curated list of awesome Kotlin libraries and projects.
 
 [谷歌宣布Kotlin成安卓开发一级语言，我们如何来学习它](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484919&idx=1&sn=a5515ee4ecfae912ff612295f36a0bf9&chksm=eae1f0a5dd9679b356287bd71fe3b8f95019c57e14dd3dee8ec9e8b0d3f03e1bc1870cc69066#rd)
 
+[为什么说Kotlin值得一试](http://www.cnblogs.com/bugly/p/5219895.html)
+
+[初次尝试用Kotlin实现Android项目](http://www.cnblogs.com/tgyf/p/6201837.html)
+
+[使用Kotlin&Anko, 扔掉XML开发Android应用](http://www.cnblogs.com/sunshine-anycall/p/5300305.html)
+
+[Kotlin从入门到掉坑里](http://www.cnblogs.com/sw926/p/5870326.html)
+
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
 ### GitHub
@@ -50,4 +58,4 @@ A curated list of awesome Kotlin libraries and projects.
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 
 
-###### 注：以上排名不分先后，只因时间先后顺序。
+###### 注：以上排名不分先后，只因时间先后顺序。资源都来自互联网，若有侵权，请联系我删除，整理得有点混乱，多谢包涵。

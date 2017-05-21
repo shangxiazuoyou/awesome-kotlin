@@ -43,6 +43,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
+#### Kotlin 语言入门指南系列
+1.[基础语法](http://www.cnblogs.com/joejs/p/6875128.html)
+2.[代码风格](http://www.cnblogs.com/joejs/p/6878128.html)
+
 ### GitHub
 [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/) -Kotlin 视频教程
 

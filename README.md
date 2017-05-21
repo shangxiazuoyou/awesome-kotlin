@@ -6,6 +6,8 @@ A curated list of awesome Kotlin libraries and projects.
 #### 中文翻译
 [Kotlin in Chinese](https://github.com/huanglizhuo/kotlin-in-chinese)
 
+[Kotlin Android Extensions](http://blog.csdn.net/poorkick/article/details/72465721)
+
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 
@@ -13,8 +15,6 @@ A curated list of awesome Kotlin libraries and projects.
 [为什么我要改用Kotlin](http://droidyue.com/blog/2017/05/18/why-do-i-turn-to-kotlin/)
 
 [Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)
-
-[Kotlin 实战](http://www.jianshu.com/p/dcaa25d33b0c#)
 
 [Kotlin 都转正成 Android 官方语言了，你还不试一下？](https://juejin.im/entry/591ce8aca0bb9f005f1bedb6/)
 
@@ -44,6 +44,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [初次尝试用Kotlin实现Android项目](http://www.cnblogs.com/tgyf/p/6201837.html)
 
+[将 Kotlin 用于生产环境：你在犹豫什么？](http://www.jianshu.com/p/272d3260dbf5)
+
 [使用Kotlin&Anko, 扔掉XML开发Android应用](http://www.cnblogs.com/sunshine-anycall/p/5300305.html)
 
 [Kotlin从入门到掉坑里](http://www.cnblogs.com/sw926/p/5870326.html)
@@ -56,10 +58,38 @@ A curated list of awesome Kotlin libraries and projects.
 
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
+### 基础
+[基本语法1](http://ltlovezh.com/2016/04/17/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%951/)
+
+[基本语法2](http://ltlovezh.com/2016/04/27/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%952/)
+
 #### Kotlin 语言入门指南系列
 1.[基础语法](http://www.cnblogs.com/joejs/p/6875128.html)
 
 2.[代码风格](http://www.cnblogs.com/joejs/p/6878128.html)
+
+#### Kotlin Koans学习笔记系列
+[Kotlin Koans学习笔记(1)](http://www.jianshu.com/p/5ff8d26bc391)
+
+[Kotlin Koans学习笔记(2)](http://www.jianshu.com/p/1086fe770776)
+
+[Kotlin Koans学习笔记(3)](http://www.jianshu.com/p/6a731d6abe44)
+
+### 实战
+[使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)
+
+[Kotlin 实战](http://www.jianshu.com/p/dcaa25d33b0c#)
+
+[Kotlin 初探](http://www.jianshu.com/p/c171c6577d7f)
+
+### 进阶
+[Kotlin : Type-safe Builders及性能对比](http://ltlovezh.com/2016/04/29/Kotlin-Type-safe-Builders%E5%8F%8A%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/)
+
+[不使用虚拟机的 Kotlin](http://www.jianshu.com/p/8f9d2c104fe7)
+
+["Effective Java"怎样影响Kotlin的设计(1)](http://www.jianshu.com/p/43fb88b29a36)
+
+[5个也许你不知道的Kotlin 小特性](http://www.jianshu.com/p/a414ea08bdcd)
 
 ### GitHub
 [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/) -Kotlin 视频教程

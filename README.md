@@ -3,11 +3,18 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin官方GitHub地址](https://github.com/JetBrains/kotlin)
 
+#### 中文翻译
+[Kotlin in Chinese](https://github.com/huanglizhuo/kotlin-in-chinese)
+
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 
 ### 文章
 [为什么我要改用Kotlin](http://droidyue.com/blog/2017/05/18/why-do-i-turn-to-kotlin/)
+
+[Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)
+
+[Kotlin 实战](http://www.jianshu.com/p/dcaa25d33b0c#)
 
 [Kotlin 都转正成 Android 官方语言了，你还不试一下？](https://juejin.im/entry/591ce8aca0bb9f005f1bedb6/)
 
@@ -41,10 +48,17 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin从入门到掉坑里](http://www.cnblogs.com/sw926/p/5870326.html)
 
+[Kotlin， 一种新的android平台一级开发语言](http://www.cnblogs.com/aspwebchh/p/6881264.html)
+
+[Kotlin ? 这次我真的心都碎了](http://www.jianshu.com/p/610f6fe8bbcc)
+
+[Kotlin学习笔记](http://www.jianshu.com/p/ddfd35154064)
+
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
 #### Kotlin 语言入门指南系列
 1.[基础语法](http://www.cnblogs.com/joejs/p/6875128.html)
+
 2.[代码风格](http://www.cnblogs.com/joejs/p/6878128.html)
 
 ### GitHub
@@ -57,6 +71,10 @@ A curated list of awesome Kotlin libraries and projects.
 [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin/) -简单漫画APP
 
 [RxKotlin](https://github.com/ReactiveX/RxKotlin/) -RxKotlin 函数式编程
+
+[Twobbble](https://github.com/550609334/Twobbble) -Dribbble客户端
+
+[KBinding](https://github.com/BennyWang/KBinding) -使用Kotlin实现MVVM
 
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具

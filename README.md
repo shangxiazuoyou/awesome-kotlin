@@ -58,6 +58,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin学习笔记](http://www.jianshu.com/p/ddfd35154064)
 
+[使用Kotlin开发微服务](http://mp.weixin.qq.com/s/OiGgR7wFR32dxL60IXlfcg)
+
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
 ### 基础

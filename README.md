@@ -235,6 +235,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [kaffeine](https://github.com/ragunathjawahar/kaffeine) -Kaffeine is a Kotlin-flavored Android library for accelerating development
 
+[kotlin-android-mvp-starter](https://github.com/general-mobile/kotlin-android-mvp-starter) -Create/Generate your kotlin MVP projects easily
+
+[KontinuousSpeechRecognizer](https://github.com/StephenVinouze/KontinuousSpeechRecognizer) -A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword
+
 [写给 Android 开发者的 Kotlin 开发手册](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 
 ### 构建工具

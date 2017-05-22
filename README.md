@@ -8,6 +8,9 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Android Extensions](http://blog.csdn.net/poorkick/article/details/72465721)
 
+### 环境配置
+[使用Kotlin开发Android 创建工程与配置](http://www.jianshu.com/p/1f1d1000f146)
+
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 

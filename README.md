@@ -62,6 +62,9 @@ A curated list of awesome Kotlin libraries and projects.
 
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
+### 服务器开发
+[Spring Boot in Kotlin实践](http://www.jianshu.com/p/b265b9bcef6c)
+
 ### 基础
 [基本语法1](http://ltlovezh.com/2016/04/17/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%951/)
 
@@ -155,6 +158,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin 初探](http://www.jianshu.com/p/c171c6577d7f)
 
+[爽翻天！告别Java。一起来使用kotlin开发完整客户端](http://www.jianshu.com/p/acae773a3ffb)
+
 ### 进阶
 [Kotlin : Type-safe Builders及性能对比](http://ltlovezh.com/2016/04/29/Kotlin-Type-safe-Builders%E5%8F%8A%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/)
 
@@ -163,6 +168,10 @@ A curated list of awesome Kotlin libraries and projects.
 ["Effective Java"怎样影响Kotlin的设计(1)](http://www.jianshu.com/p/43fb88b29a36)
 
 [5个也许你不知道的Kotlin 小特性](http://www.jianshu.com/p/a414ea08bdcd)
+
+[用kotlin打造简化版本的ButterKnife](http://www.jianshu.com/p/006fc2a64a58)
+
+[用kotlin打印出漂亮的Android日志](http://www.jianshu.com/p/87da67f09c1c)
 
 ### GitHub
 [Getting-started-with-Kotlin](https://github.com/steelkiwi/Getting-started-with-Kotlin) -🚀 How to use Kotlin with popular Android libraries

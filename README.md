@@ -96,6 +96,8 @@ A curated list of awesome Kotlin libraries and projects.
 [5个也许你不知道的Kotlin 小特性](http://www.jianshu.com/p/a414ea08bdcd)
 
 ### GitHub
+[Getting-started-with-Kotlin](https://github.com/steelkiwi/Getting-started-with-Kotlin) -🚀 How to use Kotlin with popular Android libraries
+
 [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials/) -Kotlin 视频教程
 
 [FanfouHandpick](https://github.com/TonnyL/FanfouHandpick/) -饭否精选APP
@@ -115,6 +117,34 @@ A curated list of awesome Kotlin libraries and projects.
 [murmur](https://github.com/nekocode/murmur) -📻 A third-party DoubanFM android client
 
 [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) -🚀 An Android project template using Kotlin/MVP/ReactiveX. It provides a generator to fast create a Kotlin Android template project
+
+[kursor](https://github.com/aballano/kursor) -Extension functions to facilitate working with Android's Cursor
+
+[kotlinpoet](https://github.com/square/kotlinpoet) -A Kotlin API for generating .kt source files
+
+[KotlinSample](https://github.com/vlad1m1r990/KotlinSample) -Simple Android app written in Kotlin
+
+[KotlinObservable](https://github.com/yzheka/KotlinObservable) -A set of data structures to get rid of adapters
+
+[kotlin-extensions](https://github.com/yongjhih/kotlin-extensions) -kotlin-android-extensions
+
+[Kotlin-Realm-Extensions](https://github.com/vicpinm/Kotlin-Realm-Extensions)
+
+[Kotlin-Example](https://github.com/myinnos/Kotlin-Example) -An example for who are all going to start learning Kotlin programming language to develop Android application
+
+[klips](https://github.com/vjache/klips) -Kotlin Language Integrated Production System
+
+[kotlin-unwrap](https://github.com/importre/kotlin-unwrap) -🎁 Unwrap nullable variables in Kotlin
+
+[kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) -A collection of useful extension methods for Android
+
+[androidKotlin](https://github.com/yoavst/androidKotlin) -Kotlin extenstion method for better Android development
+
+[KAndroid](https://github.com/pawegio/KAndroid) -Kotlin library for Android
+
+[kotlinAndroidLib](https://github.com/VolodymyrLykhonis/kotlinAndroidLib) -Kotlin "sugar" for Android
+
+[kaffeine](https://github.com/ragunathjawahar/kaffeine) -Kaffeine is a Kotlin-flavored Android library for accelerating development
 
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具

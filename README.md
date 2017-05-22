@@ -79,6 +79,51 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Koans学习笔记(3)](http://www.jianshu.com/p/6a731d6abe44)
 
+#### Kotlin 学习之路系列
+[初探 Kotlin](https://zhuanlan.zhihu.com/p/26443556)
+
+[搭建你的 Kotlin 开发环境](https://zhuanlan.zhihu.com/p/26443689)
+
+[从 Hello World 开始](https://zhuanlan.zhihu.com/p/26443813)
+
+[声明常量和变量](https://zhuanlan.zhihu.com/p/26483807)
+
+[定义函数](https://zhuanlan.zhihu.com/p/26494541)
+
+[基础数据类型](https://zhuanlan.zhihu.com/p/26498613)
+
+[Kotlin 数组](https://zhuanlan.zhihu.com/p/26520055)
+
+[Kotlin 中的运算符](https://zhuanlan.zhihu.com/p/26546977)
+
+[流程控制：条件语句](https://zhuanlan.zhihu.com/p/26556980)
+
+[流程控制：循环语句](https://zhuanlan.zhihu.com/p/26569103)
+
+[流程控制：返回和跳转](https://zhuanlan.zhihu.com/p/26629258)
+
+[面向对象：类和构造函数](https://zhuanlan.zhihu.com/p/26659116)
+
+[面向对象：属性](https://zhuanlan.zhihu.com/p/26659166)
+
+[面向对象：继承](https://zhuanlan.zhihu.com/p/26661263)
+
+[面向对象：抽象类和接口](https://zhuanlan.zhihu.com/p/26671113)
+
+[面向对象：访问控制符](https://zhuanlan.zhihu.com/p/26690096)
+
+[面向对象高级：伴生对象](https://zhuanlan.zhihu.com/p/26713535)
+
+[面向对象高级：数据类](https://zhuanlan.zhihu.com/p/26735340)
+
+[面向对象高级：密封类](https://zhuanlan.zhihu.com/p/26761603)
+
+[Kotlin 空安全：可空类型和非空类型](https://zhuanlan.zhihu.com/p/26775681)
+
+[空安全：安全调用和 Elvis 操作符](https://zhuanlan.zhihu.com/p/26779288)
+
+[Kotlin 集合框架：常用集合工具函数（Map 部分）](https://zhuanlan.zhihu.com/p/27010531)
+
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)
 

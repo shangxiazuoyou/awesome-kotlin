@@ -110,6 +110,12 @@ A curated list of awesome Kotlin libraries and projects.
 
 [KBinding](https://github.com/BennyWang/KBinding) -使用Kotlin实现MVVM
 
+[android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) -Sample app using Android architecture components
+
+[murmur](https://github.com/nekocode/murmur) -📻 A third-party DoubanFM android client
+
+[Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) -🚀 An Android project template using Kotlin/MVP/ReactiveX. It provides a generator to fast create a Kotlin Android template project
+
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 

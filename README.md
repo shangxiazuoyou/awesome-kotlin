@@ -61,6 +61,14 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin学习笔记](http://www.jianshu.com/p/ddfd35154064)
 
+[Kotlin 与 Java 兼容的神坑，Int 说：怪我咯](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483979&idx=2&sn=30d93210f3de6c1b04b4c7e032b14d03&chksm=e8a05d76dfd7d46027587883eb008095a889b588f347d28db3affefa06a979c85f79aeb58ec8#rd)
+
+[你该学 Kotlin 吗？](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483979&idx=1&sn=e1e904e27cd6542c284c7ad2bb03befd&chksm=e8a05d76dfd7d4609ed562854323bd4d75b52f7418f9af805cd5521e194b63f321e55f587834#rd)
+
+[那些年写Kotlin遇到的各种坑，您需要收藏啦](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516184&idx=1&sn=ada98ade05d6764efd026f2ac4307900&chksm=f1efe813c69861059a11ccb0c11457bf78f7fba8a859bf3457747f0de5f42e16e2a068258f92#rd)
+
+[Kotlin + 列表拖拽重新排序、滑动进行删除](http://www.jianshu.com/p/2e591df06d73)
+
 [使用Kotlin开发微服务](http://mp.weixin.qq.com/s/OiGgR7wFR32dxL60IXlfcg)
 
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
@@ -226,6 +234,8 @@ A curated list of awesome Kotlin libraries and projects.
 [kotlinAndroidLib](https://github.com/VolodymyrLykhonis/kotlinAndroidLib) -Kotlin "sugar" for Android
 
 [kaffeine](https://github.com/ragunathjawahar/kaffeine) -Kaffeine is a Kotlin-flavored Android library for accelerating development
+
+[写给 Android 开发者的 Kotlin 开发手册](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具

@@ -72,7 +72,7 @@ A curated list of awesome Kotlin libraries and projects.
 
 2.[代码风格](http://www.cnblogs.com/joejs/p/6878128.html)
 
-#### Kotlin Koans学习笔记系列
+#### Kotlin Koans 学习笔记系列
 [Kotlin Koans学习笔记(1)](http://www.jianshu.com/p/5ff8d26bc391)
 
 [Kotlin Koans学习笔记(2)](http://www.jianshu.com/p/1086fe770776)
@@ -122,7 +122,31 @@ A curated list of awesome Kotlin libraries and projects.
 
 [空安全：安全调用和 Elvis 操作符](https://zhuanlan.zhihu.com/p/26779288)
 
+[空安全：let 函数和 !! 操作符](https://zhuanlan.zhihu.com/p/26787026)
+
+[Kotlin 集合框架：可变集合与不可变集合](https://zhuanlan.zhihu.com/p/26830804)
+
+[文章翻译：Kotlin 中的 Nothing 和 Unit](https://zhuanlan.zhihu.com/p/26890263)
+
+[Kotlin 泛型系统](https://zhuanlan.zhihu.com/p/26965437)
+
+[Kotlin 集合框架：Iterable、Iterator 和 Collection](https://zhuanlan.zhihu.com/p/26968015)
+
+[热烈欢迎 Kotlin 成为 Android 官方开发语言！](https://zhuanlan.zhihu.com/p/26975524)
+
+[Kotlin 集合框架：List、Set 和 Map 接口](https://zhuanlan.zhihu.com/p/26985368)
+
+[Kotlin 集合框架：常用集合工具函数（List 部分）](https://zhuanlan.zhihu.com/p/26994802)
+
+[Kotlin 集合框架：常用集合工具函数（Set 部分）](https://zhuanlan.zhihu.com/p/27001234)
+
 [Kotlin 集合框架：常用集合工具函数（Map 部分）](https://zhuanlan.zhihu.com/p/27010531)
+
+[一些 Kotlin 学习资源](https://zhuanlan.zhihu.com/p/27019413)
+
+[再谈扩展函数和扩展属性](https://zhuanlan.zhihu.com/p/27021978)
+
+[高阶函数和 Lambda 表达式：函数类型和匿名函数](https://zhuanlan.zhihu.com/p/27034675)
 
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)

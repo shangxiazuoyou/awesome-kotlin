@@ -33,8 +33,6 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Primer系列](https://kymjs.com/code/2017/02/03/01/)
 
-[让你的代码量减少3倍系列](http://androidwing.net/index.php/89)
-
 [使用Kotlin进行Android开发](http://ragnraok.github.io/using-kotlin-to-write-android-app.html)
 
 [Android开发技术周报特刊之 Kotlin Issue#0](http://www.androidweekly.cn/android-dev-special-weekly-kotlin-issue-0/#jtss-tsina/)
@@ -80,6 +78,18 @@ A curated list of awesome Kotlin libraries and projects.
 ### 服务器开发
 [Spring Boot in Kotlin实践](http://www.jianshu.com/p/b265b9bcef6c)
 
+[ktor](https://github.com/Kotlin/ktor) -Web backend framework for Kotlin
+
+[KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) -Spring support libraries for Kotlin
+
+[yested](https://github.com/jean79/yested) -A Kotlin framework for building web applications in Javascript
+
+[kovert](https://github.com/kohesive/kovert) -The invisible REST and web framework
+
+[hexagon](https://github.com/jaguililla/hexagon) -The atoms of your platform
+
+[kottpd](https://github.com/gimlet2/kottpd) -REST framework written in pure Kotlin
+
 ### 基础
 [基本语法1](http://ltlovezh.com/2016/04/17/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%951/)
 
@@ -96,6 +106,21 @@ A curated list of awesome Kotlin libraries and projects.
 [Kotlin Koans学习笔记(2)](http://www.jianshu.com/p/1086fe770776)
 
 [Kotlin Koans学习笔记(3)](http://www.jianshu.com/p/6a731d6abe44)
+
+#### 让你的代码量减少3倍系列
+[使用kotlin开发Android(一) 创建Kotlin工程](http://androidwing.net/index.php/89)
+
+[使用kotlin开发Android(二) –秘笈！扩展函数](http://androidwing.net/index.php/93)
+
+[使用kotlin开发Android(三) 缩短五倍的Java Bean](http://androidwing.net/index.php/97)
+
+[使用kotlin开发Android(四) kotlin bean背后的秘密](http://androidwing.net/index.php/118)
+
+[使用kotlin开发Android(五) 监听器](http://androidwing.net/index.php/121)
+
+[爽翻天！告别Java。一起来使用kotlin开发完整客户端](http://androidwing.net/index.php/148)
+
+[[译] Kotlin VS Java:编译速度大比拼](http://androidwing.net/index.php/150)
 
 #### Kotlin 学习之路系列
 [初探 Kotlin](https://zhuanlan.zhihu.com/p/26443556)

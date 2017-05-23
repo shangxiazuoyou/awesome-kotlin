@@ -19,6 +19,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [一张图，三分钟，掌握 Swift & Kotlin](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516190&idx=1&sn=e1205af631a724d6f7da13c66a1b339f&chksm=f1efe815c69861037626cbfa7696318c0ead128ab04a216cb3b2751580a7c81587351a818204#rd)
 
+[一张图，三分钟，掌握 Swift & Kotlin 英文版](http://nilhcem.com/swift-is-like-kotlin/)
+
 [Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)
 
 [Kotlin 都转正成 Android 官方语言了，你还不试一下？](https://juejin.im/entry/591ce8aca0bb9f005f1bedb6/)

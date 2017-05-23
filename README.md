@@ -270,6 +270,18 @@ A curated list of awesome Kotlin libraries and projects.
 
 [KontinuousSpeechRecognizer](https://github.com/StephenVinouze/KontinuousSpeechRecognizer) -A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword
 
+[bubble](https://github.com/TouK/bubble) -Screen orientation detector for android
+
+[Kotpref](https://github.com/chibatching/Kotpref) -Kotpref - Android SharedPreferences delegation library for Kotlin
+
+[Fuse](https://github.com/kittinunf/Fuse) -The simple generic LRU memory/disk cache for Android written in Kotlin
+
+[Fuel](https://github.com/kittinunf/Fuel) -The easiest HTTP networking library for Kotlin/Android
+
+[wasabi](https://github.com/wasabifx/wasabi) -An HTTP Framework
+
+[khttp](https://github.com/jkcclemens/khttp) -Kotlin HTTP requests library. Similar to Python requests
+
 [写给 Android 开发者的 Kotlin 开发手册](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 
 ### 构建工具

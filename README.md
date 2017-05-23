@@ -237,6 +237,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [kotlin-android-mvp-starter](https://github.com/general-mobile/kotlin-android-mvp-starter) -Create/Generate your kotlin MVP projects easily
 
+[android-mvp-kotlin-starter](https://github.com/ravidsrk/android-mvp-kotlin-starter) -[WIP] [Android MVP Kotlin] Android App starter based on Kotlin + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo
+
 [KontinuousSpeechRecognizer](https://github.com/StephenVinouze/KontinuousSpeechRecognizer) -A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword
 
 [写给 Android 开发者的 Kotlin 开发手册](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)

@@ -73,6 +73,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [使用Kotlin开发微服务](http://mp.weixin.qq.com/s/OiGgR7wFR32dxL60IXlfcg)
 
+[Kotlin 发糖了](https://zhuanlan.zhihu.com/p/27069969)
+
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
 ### 服务器开发

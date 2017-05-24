@@ -213,6 +213,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [用kotlin打印出漂亮的Android日志](http://www.jianshu.com/p/87da67f09c1c)
 
+[[Android] 组件化的 Kotlin 适配 -- 迄今最强的 Kotlin 踩坑文章](https://juejin.im/post/5923efdca22b9d0058983f66)
+
 ### GitHub
 [Getting-started-with-Kotlin](https://github.com/steelkiwi/Getting-started-with-Kotlin) -🚀 How to use Kotlin with popular Android libraries
 

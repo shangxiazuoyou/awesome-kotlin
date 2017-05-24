@@ -120,7 +120,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [爽翻天！告别Java。一起来使用kotlin开发完整客户端](http://androidwing.net/index.php/148)
 
-[[译] Kotlin VS Java:编译速度大比拼](http://androidwing.net/index.php/150)
+[译 Kotlin VS Java:编译速度大比拼](http://androidwing.net/index.php/150)
+
+#### Kotlin for Android 系列
+[（一）准备工作](http://wuxiaolong.me/2017/05/21/kotlin1/)
 
 #### Kotlin 学习之路系列
 [初探 Kotlin](https://zhuanlan.zhihu.com/p/26443556)

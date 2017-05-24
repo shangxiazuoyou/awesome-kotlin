@@ -92,6 +92,9 @@ A curated list of awesome Kotlin libraries and projects.
 
 [kottpd](https://github.com/gimlet2/kottpd) -REST framework written in pure Kotlin
 
+### 环境搭建
+[图解环境搭建](http://www.jianshu.com/p/633a5faa5c76)
+
 ### 基础
 [基本语法1](http://ltlovezh.com/2016/04/17/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%951/)
 

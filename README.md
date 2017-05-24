@@ -191,6 +191,14 @@ A curated list of awesome Kotlin libraries and projects.
 
 [高阶函数和 Lambda 表达式：函数类型和匿名函数](https://zhuanlan.zhihu.com/p/27034675)
 
+[高阶函数和 Lambda 表达式：基础用法](https://zhuanlan.zhihu.com/p/27041272)
+
+[高阶函数和 Lambda 表达式：闭包和扩展函数对象](https://zhuanlan.zhihu.com/p/27049887)
+
+[常用高阶函数：filter](https://zhuanlan.zhihu.com/p/27057453)
+
+[常用高阶函数：map](https://zhuanlan.zhihu.com/p/27070678)
+
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)
 

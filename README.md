@@ -331,6 +331,12 @@ A curated list of awesome Kotlin libraries and projects.
 
 [写给 Android 开发者的 Kotlin 开发手册](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 
+[Notelin](https://github.com/ImangazalievM/Notelin) -Note-taking app for Android written in Kotlin
+
+[RsKotlin](https://github.com/LeeeYou/RsKotlin) -Using Dagger2, Retrofit2, RxJava combined with Kotlin to display the message
+
+[FanfouHandpick](https://github.com/TonnyL/FanfouHandpick) -📖 A Fanfou Handpick Client Developed by Kotlin
+
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 

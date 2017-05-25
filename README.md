@@ -231,7 +231,9 @@ A curated list of awesome Kotlin libraries and projects.
 
 [用kotlin打印出漂亮的Android日志](http://www.jianshu.com/p/87da67f09c1c)
 
-[[Android] 组件化的 Kotlin 适配 -- 迄今最强的 Kotlin 踩坑文章](https://juejin.im/post/5923efdca22b9d0058983f66)
+[Android 组件化的 Kotlin 适配 -- 迄今最强的 Kotlin 踩坑文章](https://juejin.im/post/5923efdca22b9d0058983f66)
+
+[当Kotlin遇见RxJava多数据源](https://juejin.im/post/5925b887a0bb9f005f86cf83)
 
 ### GitHub
 [Getting-started-with-Kotlin](https://github.com/steelkiwi/Getting-started-with-Kotlin) -🚀 How to use Kotlin with popular Android libraries
@@ -303,6 +305,10 @@ A curated list of awesome Kotlin libraries and projects.
 [khttp](https://github.com/jkcclemens/khttp) -Kotlin HTTP requests library. Similar to Python requests
 
 [from-java-to-kotlin](https://github.com/fabiomsr/from-java-to-kotlin) -From Java to Kotlin Cheat Sheet
+
+[StateLayoutWithKotlin](https://github.com/huclengyue/StateLayoutWithKotlin) -完全使用kotlin实现的StateLayout类库
+
+[kotlin-life](https://github.com/Cuieney/kotlin-life) -App界的一股清流 音视频应有尽有 完全按照Material design规范设计的App （重构中向kotlin靠拢）
 
 [写给 Android 开发者的 Kotlin 开发手册](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 

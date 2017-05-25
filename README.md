@@ -121,6 +121,9 @@ A curated list of awesome Kotlin libraries and projects.
 
 [浅谈 Extensions](http://www.jianshu.com/p/fe5c70d1930e)
 
+#### 实战 Kotlin 系列
+[项目配置和语言转换](https://zhuanlan.zhihu.com/p/27100220)
+
 #### 让你的代码量减少3倍系列
 [使用kotlin开发Android(一) 创建Kotlin工程](http://androidwing.net/index.php/89)
 
@@ -217,6 +220,10 @@ A curated list of awesome Kotlin libraries and projects.
 [常用高阶函数：map](https://zhuanlan.zhihu.com/p/27070678)
 
 [常用高阶函数：查找](https://zhuanlan.zhihu.com/p/27080280)
+
+[常用高阶函数：匹配](https://zhuanlan.zhihu.com/p/27091271)
+
+[Kotlin 交互式命令行工具：kotlinc](https://zhuanlan.zhihu.com/p/27092585)
 
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)

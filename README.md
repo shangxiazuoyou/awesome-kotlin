@@ -14,6 +14,8 @@ A curated list of awesome Kotlin libraries and projects.
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 
+[简书 Kotlin 编程专题](http://www.jianshu.com/c/00b33a9fab13)
+
 ### 文章
 [为什么我要改用Kotlin](http://droidyue.com/blog/2017/05/18/why-do-i-turn-to-kotlin/)
 
@@ -111,6 +113,13 @@ A curated list of awesome Kotlin libraries and projects.
 [Kotlin Koans学习笔记(2)](http://www.jianshu.com/p/1086fe770776)
 
 [Kotlin Koans学习笔记(3)](http://www.jianshu.com/p/6a731d6abe44)
+
+#### 我与 Kotlin 的爱恨情仇系列
+[浅谈 block](http://www.jianshu.com/p/53c657bed4ab)
+
+[浅谈 Type aliases](http://www.jianshu.com/p/2932135247af)
+
+[浅谈 Extensions](http://www.jianshu.com/p/fe5c70d1930e)
 
 #### 让你的代码量减少3倍系列
 [使用kotlin开发Android(一) 创建Kotlin工程](http://androidwing.net/index.php/89)
@@ -234,6 +243,9 @@ A curated list of awesome Kotlin libraries and projects.
 [Android 组件化的 Kotlin 适配 -- 迄今最强的 Kotlin 踩坑文章](https://juejin.im/post/5923efdca22b9d0058983f66)
 
 [当Kotlin遇见RxJava多数据源](https://juejin.im/post/5925b887a0bb9f005f86cf83)
+
+#### 热门
+[Kotlin 和 Checked Exception](http://www.yinwang.org/blog-cn/2017/05/23/kotlin) -本文来自话题大神——王垠
 
 ### GitHub
 [Getting-started-with-Kotlin](https://github.com/steelkiwi/Getting-started-with-Kotlin) -🚀 How to use Kotlin with popular Android libraries

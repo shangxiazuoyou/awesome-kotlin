@@ -352,6 +352,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [KotlinMvpTemplateGenerator](https://github.com/burakeregar/KotlinMvpTemplateGenerator)
 
+[KotlinMvpArchitecture](https://github.com/burakeregar/KotlinMvpArchitecture) -Clean MVP Architecture with Dagger2 + Retrofit2 + Fresco + GenericRecyclerAdapter for Kotlin
+
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 

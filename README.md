@@ -261,6 +261,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [常用高阶函数：汇总](https://zhuanlan.zhihu.com/p/27107754)
 
+[常用高阶函数：分割](https://zhuanlan.zhihu.com/p/27125235)
+
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)
 

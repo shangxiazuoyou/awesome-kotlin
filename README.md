@@ -19,6 +19,8 @@ A curated list of awesome Kotlin libraries and projects.
 ### 思考
 [Android 开发中 Kotlin 会取代 Java 吗？](https://mp.weixin.qq.com/s/iDigAza3dPMxklOVsw1GEA)
 
+[Google 力挺 Kotlin，这是怎么回事！](https://mp.weixin.qq.com/s/uudH74mIwns4_7omTSb_cw)
+
 ### 文章
 [为什么我要改用Kotlin](http://droidyue.com/blog/2017/05/18/why-do-i-turn-to-kotlin/)
 

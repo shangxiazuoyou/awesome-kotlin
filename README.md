@@ -11,6 +11,9 @@ A curated list of awesome Kotlin libraries and projects.
 ### 环境配置
 [使用Kotlin开发Android 创建工程与配置](http://www.jianshu.com/p/1f1d1000f146)
 
+### 入门
+[Kotlin for Android 入门整理](http://www.liumengchn.win/2017/05/25/about-kotlin/)
+
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 

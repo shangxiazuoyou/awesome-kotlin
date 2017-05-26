@@ -149,6 +149,8 @@ A curated list of awesome Kotlin libraries and projects.
 #### Kotlin for Android 系列
 [（一）准备工作](http://wuxiaolong.me/2017/05/21/kotlin1/)
 
+[（二）基础语法](http://wuxiaolong.me/2017/05/23/kotlin2/)
+
 #### Kotlin 学习之路系列
 [初探 Kotlin](https://zhuanlan.zhihu.com/p/26443556)
 
@@ -231,6 +233,8 @@ A curated list of awesome Kotlin libraries and projects.
 [常用高阶函数：匹配](https://zhuanlan.zhihu.com/p/27091271)
 
 [Kotlin 交互式命令行工具：kotlinc](https://zhuanlan.zhihu.com/p/27092585)
+
+[常用高阶函数：汇总](https://zhuanlan.zhihu.com/p/27107754)
 
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)

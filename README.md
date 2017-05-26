@@ -43,6 +43,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin 初探](http://android.jobbole.com/85405/)
 
+[Klog - 利用Kotlin的类扩展,为你的log输出带来无限遐想](https://juejin.im/post/5927da25a0bb9f0057d43ea3)
+
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
 
 [初见 Kotlin](http://weibo.com/ttarticle/p/show?id=2309403953696487662808)

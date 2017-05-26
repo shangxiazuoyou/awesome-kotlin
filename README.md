@@ -17,7 +17,11 @@ A curated list of awesome Kotlin libraries and projects.
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 
+[Kotlin 中文文档](http://www.tuicool.com/articles/faqyMzE)
+
 [简书 Kotlin 编程专题](http://www.jianshu.com/c/00b33a9fab13)
+
+[KOTLIN开发语言文档（官方文档） -- 入门](http://www.mamicode.com/info-detail-1172799.html)
 
 ### 思考
 [Android 开发中 Kotlin 会取代 Java 吗？](https://mp.weixin.qq.com/s/iDigAza3dPMxklOVsw1GEA)
@@ -31,9 +35,21 @@ A curated list of awesome Kotlin libraries and projects.
 
 [一张图，三分钟，掌握 Swift & Kotlin 英文版](http://nilhcem.com/swift-is-like-kotlin/)
 
+[只需五分钟，开始使用Kotlin开发Android](http://blog.csdn.net/barryhappy/article/details/52877258)
+
+[博客园 Kotlin 随笔](http://www.cnblogs.com/tiantianbyconan/category/732921.html)
+
 [Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)
 
 [Kotlin 初探](http://android.jobbole.com/85405/)
+
+[快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s?__biz=MzIzMTYzOTYzNA==&mid=2247483899&idx=2&sn=76f84bf0ca00ab11f5c7d75d72cee731&chksm=e8a05ec6dfd7d7d0691826a470e6d0f5de517e485d02082868d037b0fe6306683885e535b87a#rd)
+
+[初见 Kotlin](http://weibo.com/ttarticle/p/show?id=2309403953696487662808)
+
+[使用Kotlin优雅的开发Android应用](https://juejin.im/post/5915c0a744d904006c4e3bcd)
+
+[Kotlin：Android世界的Swift](http://www.infoq.com/cn/news/2015/06/Android-JVM-JetBrains-Kotlin)
 
 [用 Kotlin 优雅地开发 Android 应用](http://android.jobbole.com/85407/)
 

@@ -272,6 +272,30 @@ A curated list of awesome Kotlin libraries and projects.
 
 [常用高阶函数：reduce](https://zhuanlan.zhihu.com/p/27140290)
 
+### 知乎 Kotlin 话题
+> 在知乎 Kotlin 话题下选取了部分比较有代表性的问答，持续关注并整理更新。
+[如何评价 Kotlin 语言？](https://www.zhihu.com/question/25289041)
+
+[Kotlin 作为 Android 开发语言相比传统 Java 有什么优势？](https://www.zhihu.com/question/37288009)
+
+[如何看待 Kotlin 成为 Google 正式支持的 Android 开发一级编程语言？](https://www.zhihu.com/question/59987490)
+
+[Kotlin 是否有可能成为 Android 系统的下一代开发语言？](https://www.zhihu.com/question/31788305)
+
+[Android开发中使用kotlin你遇到过哪些坑？](https://www.zhihu.com/question/36735834)
+
+[请教Kotlin如何写单例模式？](https://www.zhihu.com/question/52377186)
+
+[如何评价 Kotlin 1.0 正式版的的发布？](https://www.zhihu.com/question/40431045)
+
+[如何评价kotlin native？](https://www.zhihu.com/question/58044077)
+
+[Kotlin 语言培训市场规模有多大?](https://www.zhihu.com/question/59994815)
+
+[Scala、Groovy、Clojure 、Kotlin 分别解决了Java 的什么痛点？](https://www.zhihu.com/question/48633827)
+
+[如何评价 Clean Code 作者对 Swift 与 Kotlin 的看法？](https://www.zhihu.com/question/54733478)
+
 ### 实战
 [使用Kotlin优雅的开发Android](https://juejin.im/post/5915c0a744d904006c4e3bcd)
 

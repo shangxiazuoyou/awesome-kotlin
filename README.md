@@ -71,7 +71,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Swift对比学习](http://www.jianshu.com/p/c5007d609b53)
 
+#### 沪江技术学院
 [连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
+
+[连载 | Kotlin基础语法](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516223&idx=1&sn=7bfef20a7b465ade6f91e95aae977793&chksm=f1efe834c69861224d23d1fc90ae16862f054690737d6e31cca2d1a72c4d4bc1c4ad7fefbf3f#rd)
 
 [用Kotlin方式打开《第一行代码Android》](http://www.cnblogs.com/devilyouwei/p/6881955.html)
 
@@ -271,6 +274,12 @@ A curated list of awesome Kotlin libraries and projects.
 [Kotlin 初探](http://www.jianshu.com/p/c171c6577d7f)
 
 [爽翻天！告别Java。一起来使用kotlin开发完整客户端](http://www.jianshu.com/p/acae773a3ffb)
+
+[实战Kotlin@Android(一): 项目配置和语言转换](https://zhuanlan.zhihu.com/p/27100220)
+
+[实战Kotlin@Andorid(二): 界面构建与扩展方法](https://zhuanlan.zhihu.com/p/27117759)
+
+[实战kotlin@android(三): 扩展变量与其它技巧](https://zhuanlan.zhihu.com/p/27124434)
 
 ### 进阶
 [Kotlin : Type-safe Builders及性能对比](http://ltlovezh.com/2016/04/29/Kotlin-Type-safe-Builders%E5%8F%8A%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/)

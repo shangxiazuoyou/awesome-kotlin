@@ -278,6 +278,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [常用高阶函数：转换](https://zhuanlan.zhihu.com/p/27155749)
 
+[常用高阶函数：标准库函数](https://zhuanlan.zhihu.com/p/27159901)
+
 ### 知乎 Kotlin 话题
 > 在知乎 Kotlin 话题下选取了部分比较有代表性的问答，持续关注并整理更新。
 

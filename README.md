@@ -10,6 +10,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Android Extensions](http://blog.csdn.net/poorkick/article/details/72465721)
 
+[Kotlin 类型层级结构一览](http://www.demojameson.com/2017/05/29/a-whirlwind-tour-of-the-kotlin-type-hierarchy/)
+
 ### 环境配置
 [使用Kotlin开发Android 创建工程与配置](http://www.jianshu.com/p/1f1d1000f146)
 
@@ -30,9 +32,11 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Google 力挺 Kotlin，这是怎么回事！](https://mp.weixin.qq.com/s/uudH74mIwns4_7omTSb_cw)
 
-### 文章
+[谷歌大牛说：为什么 Kotlin 比你们用的那些垃圾语言都好](https://www.oschina.net/news/85326/why-kotlin-better-than-others)
+
 [为什么我要改用Kotlin](http://droidyue.com/blog/2017/05/18/why-do-i-turn-to-kotlin/)
 
+### 文章
 [Kotlin for Android入门整理](http://www.liumengchn.win/2017/05/25/about-kotlin/)
 
 [一张图，三分钟，掌握 Swift & Kotlin](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516190&idx=1&sn=e1205af631a724d6f7da13c66a1b339f&chksm=f1efe815c69861037626cbfa7696318c0ead128ab04a216cb3b2751580a7c81587351a818204#rd)
@@ -42,6 +46,8 @@ A curated list of awesome Kotlin libraries and projects.
 [只需五分钟，开始使用Kotlin开发Android](http://blog.csdn.net/barryhappy/article/details/52877258)
 
 [博客园 Kotlin 随笔](http://www.cnblogs.com/tiantianbyconan/category/732921.html)
+
+[Kotlin 在安卓中的一些tips](http://blog.csdn.net/cysion1989/article/details/72648052)
 
 [Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)
 

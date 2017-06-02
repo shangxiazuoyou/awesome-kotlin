@@ -191,6 +191,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [（二）基础语法](http://wuxiaolong.me/2017/05/23/kotlin2/)
 
+[（三）类和对象](http://wuxiaolong.me/2017/06/01/kotlin3/)
+
 #### Kotlin 学习之路系列
 [初探 Kotlin](https://zhuanlan.zhihu.com/p/26443556)
 
@@ -439,6 +441,8 @@ A curated list of awesome Kotlin libraries and projects.
 [KotlinMvpArchitecture](https://github.com/burakeregar/KotlinMvpArchitecture) -Clean MVP Architecture with Dagger2 + Retrofit2 + Fresco + GenericRecyclerAdapter for Kotlin
 
 [KotlinMVP](https://github.com/chalTi/KotlinMVP) -use kotlin create mvp projet
+
+[HelloKotlin](https://github.com/fashare2015/HelloKotlin) -An summarize of kotlin with some demo
 
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具

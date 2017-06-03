@@ -454,6 +454,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [HelloKotlin](https://github.com/fashare2015/HelloKotlin) -An summarize of kotlin with some demo
 
+[DoubanMovie](https://github.com/zhoujunjiang/DoubanMovie) -豆瓣电影公开接口Android实现
+
+[kotlin-library](https://github.com/GcsSloop/kotlin-library) -基于 Kotlin 的 Library
+
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 

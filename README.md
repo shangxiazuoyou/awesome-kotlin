@@ -288,6 +288,16 @@ A curated list of awesome Kotlin libraries and projects.
 
 [常用高阶函数：标准库函数](https://zhuanlan.zhihu.com/p/27159901)
 
+[填坑：Kotlin 包和 import 语句](https://zhuanlan.zhihu.com/p/27162805)
+
+[Java 互操作：平台类型与类型映射](https://zhuanlan.zhihu.com/p/27166340)
+
+[Kotlin 对象与 object 关键字](https://zhuanlan.zhihu.com/p/27183266)
+
+[一个相当有趣的例子：Kotlin 与混乱的 Java 类型](https://zhuanlan.zhihu.com/p/27199115)
+
+[详解 Kotlin 的 equals() 和 ==](https://zhuanlan.zhihu.com/p/27214002)
+
 ### 知乎 Kotlin 话题
 > 在知乎 Kotlin 话题下选取了部分比较有代表性的问答，持续关注并整理更新。
 

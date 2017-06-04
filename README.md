@@ -83,6 +83,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin Swift对比学习](http://www.jianshu.com/p/c5007d609b53)
 
+[Kotlin 中关于 val 的一个小知识点](https://zhuanlan.zhihu.com/p/27182384)
+
+[Kotlin 全面替代 Java 可能只是时间问题](https://zhuanlan.zhihu.com/p/27055748)
+
 #### 沪江技术学院
 [连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
 
@@ -297,6 +301,12 @@ A curated list of awesome Kotlin libraries and projects.
 [一个相当有趣的例子：Kotlin 与混乱的 Java 类型](https://zhuanlan.zhihu.com/p/27199115)
 
 [详解 Kotlin 的 equals() 和 ==](https://zhuanlan.zhihu.com/p/27214002)
+
+[填坑：Kotlin 枚举](https://zhuanlan.zhihu.com/p/27228456)
+
+[Kotlin 写单向链表题 1](https://zhuanlan.zhihu.com/p/27232972)
+
+[Kotlin 写单向链表题 2](https://zhuanlan.zhihu.com/p/27237928)
 
 ### 知乎 Kotlin 话题
 > 在知乎 Kotlin 话题下选取了部分比较有代表性的问答，持续关注并整理更新。

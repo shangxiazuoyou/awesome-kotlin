@@ -377,6 +377,8 @@ A curated list of awesome Kotlin libraries and projects.
 #### 热门
 [Kotlin 和 Checked Exception](http://www.yinwang.org/blog-cn/2017/05/23/kotlin) -本文来自话题大神——王垠
 
+[Kotlin 和 Checked Exception](http://www.yinwang.org/blog-cn/2017/05/23/kotlin) -本文来自话题大神-王垠
+
 ### GitHub
 [Getting-started-with-Kotlin](https://github.com/steelkiwi/Getting-started-with-Kotlin) -🚀 How to use Kotlin with popular Android libraries
 

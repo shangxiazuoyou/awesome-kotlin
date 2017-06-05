@@ -47,6 +47,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [博客园 Kotlin 随笔](http://www.cnblogs.com/tiantianbyconan/category/732921.html)
 
+[博客园 Kotlin 随笔二](http://www.cnblogs.com/figozhg/tag/Kotlin/)
+
 [Kotlin 在安卓中的一些tips](http://blog.csdn.net/cysion1989/article/details/72648052)
 
 [Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)

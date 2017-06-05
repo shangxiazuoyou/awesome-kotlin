@@ -197,6 +197,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [（三）类和对象](http://wuxiaolong.me/2017/06/01/kotlin3/)
 
+[（四）Retrofit + RxJava](https://zhuanlan.zhihu.com/p/27243628)
+
 #### Kotlin 学习之路系列
 [初探 Kotlin](https://zhuanlan.zhihu.com/p/26443556)
 

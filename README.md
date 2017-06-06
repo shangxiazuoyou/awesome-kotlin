@@ -478,6 +478,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [kotlin-library](https://github.com/GcsSloop/kotlin-library) -基于 Kotlin 的 Library
 
+[Gan_Kotlin](https://github.com/fccaikai/Gan_Kotlin) -use kotlin build a gank app
+
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 

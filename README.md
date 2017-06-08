@@ -318,6 +318,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [从内联函数到泛型数组：几个 Kotlin 高级特性的坑（上）](https://zhuanlan.zhihu.com/p/27269110)
 
+[从内联函数到泛型数组：几个 Kotlin 高级特性的坑（下）](https://zhuanlan.zhihu.com/p/27283234)
+
 ### 知乎 Kotlin 话题
 > 在知乎 Kotlin 话题下选取了部分比较有代表性的问答，持续关注并整理更新。
 

@@ -150,6 +150,29 @@ A curated list of awesome Kotlin libraries and projects.
 ### 环境搭建
 [图解环境搭建](http://www.jianshu.com/p/633a5faa5c76)
 
+### Kotlin Primer
+[使用Kotlin开发Android](https://kymjs.com/code/2015/07/22/01/)
+
+[kotlin基础语法](https://kymjs.com/code/2015/08/02/01/)
+
+[kotlin简单项目](https://kymjs.com/code/2015/08/03/01/)
+
+[第一章·启程](https://kymjs.com/code/2017/02/03/01/)
+
+[第二章·基本语法](https://kymjs.com/code/2017/02/04/01/)
+
+[第三章·Kotlin 与 Java 混编](https://kymjs.com/code/2017/02/07/01/)
+
+[第四章·Kotlin 的类特性(上)](https://kymjs.com/code/2017/02/12/01/)
+
+[第四章·Kotlin 的类特性(下)](https://kymjs.com/code/2017/02/26/01/)
+
+[第五章·函数与闭包](https://kymjs.com/code/2017/04/09/01)
+
+[《从 Java 到 kotlin》PPT](https://kymjs.com/code/2017/06/03/01/)
+
+[第六章·集合泛型与操作符](https://kymjs.com/code/2017/06/06/01/)
+
 ### 基础
 [基本语法1](http://ltlovezh.com/2016/04/17/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%951/)
 

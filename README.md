@@ -132,6 +132,18 @@ A curated list of awesome Kotlin libraries and projects.
 
 [《Kotlin for android developers》中文版翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/README.md)
 
+[Kotlin 解构声明](https://coyee.com/article/12260-kotlin-destructuring-declarations)
+
+[在 JavaScript 中调用 Kotlin 方法](https://coyee.com/article/12319-calling-kotlin-from-javascript)
+
+[在 Kotlin 语言中调用 JavaScript 方法](https://coyee.com/article/12318-calling-javascript-from-kotlin)
+
+[在 Java 中调用 Kotlin 语言的方法](https://coyee.com/article/12317-calling-kotlin-from-java)
+
+[在 Kotlin 中调用 Java 方法](https://coyee.com/article/12316-calling-java-code-from-kotlin)
+
+[Kotlin 的反射](https://coyee.com/article/12300-kotlin-reflection)
+
 ### 服务器开发
 [Spring Boot in Kotlin实践](http://www.jianshu.com/p/b265b9bcef6c)
 
@@ -146,6 +158,8 @@ A curated list of awesome Kotlin libraries and projects.
 [hexagon](https://github.com/jaguililla/hexagon) -The atoms of your platform
 
 [kottpd](https://github.com/gimlet2/kottpd) -REST framework written in pure Kotlin
+
+[Kanary](https://github.com/SeunAdelekan/Kanary) -A minimalist Kotlin web framework for building scalable and expressive RESTful APIs
 
 ### 环境搭建
 [图解环境搭建](http://www.jianshu.com/p/633a5faa5c76)
@@ -508,6 +522,12 @@ A curated list of awesome Kotlin libraries and projects.
 [kotlin-library](https://github.com/GcsSloop/kotlin-library) -基于 Kotlin 的 Library
 
 [Gan_Kotlin](https://github.com/fccaikai/Gan_Kotlin) -use kotlin build a gank app
+
+[Kotlinyan](https://github.com/fython/Kotlinyan) -Make Kotlin Android app development easier and more elegant
+
+[RuntimePermissionsExtended](https://github.com/Vuksa/RuntimePermissionsExtended) -Kotlin extension functions for easier and more concise Android permission handling
+
+[Konfetti](https://github.com/DanielMartinus/Konfetti) -Celebrate more with this lightweight confetti particle system :confetti_ball:
 
 ### 构建工具
 [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具

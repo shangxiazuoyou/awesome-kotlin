@@ -18,6 +18,8 @@ A curated list of awesome Kotlin libraries and projects.
 ### 入门
 [Kotlin for Android 入门整理](http://www.liumengchn.win/2017/05/25/about-kotlin/)
 
+[快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s/lDBSi2E5_u8dJg21wubH4Q)
+
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 

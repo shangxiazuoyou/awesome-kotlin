@@ -211,6 +211,39 @@ A curated list of awesome Kotlin libraries and projects.
 
 [浅谈 Extensions](http://www.jianshu.com/p/fe5c70d1930e)
 
+#### Kotlin 带你飞
+[（一）](http://www.jianshu.com/p/f79e9b576570)
+
+[实战篇](http://www.jianshu.com/p/336ebec71b11)
+
+#### Kotlin 学习与实战
+[Kotlin 插件安装](http://www.jianshu.com/p/c37a1e7f30d6)
+
+[基本语法](http://www.jianshu.com/p/54aa3ed91f04)
+
+[属性和字段](http://www.jianshu.com/p/ef9584a8ebf8)
+
+[基本类型(Basic Types)](http://www.jianshu.com/p/8a3843569681)
+
+[惯用语法和代码风格(Idioms And Coding Conventions)](http://www.jianshu.com/p/3966c596aeb1)
+
+[包、控制流、返回与跳转](http://www.jianshu.com/p/f2605f0bd22d)
+
+[类和继承、接口与实现](http://www.jianshu.com/p/519918d6d0a2)
+
+[对象表达式和声明(Object Expressions and Declarations)](http://www.jianshu.com/p/ba3d13581a06)
+
+[扩展(Extensions)和This表达式](http://www.jianshu.com/p/deafb24a532a)
+
+[可见性修饰符和数据类](http://www.jianshu.com/p/3ea77c686993)
+
+[泛型(Generics)](http://www.jianshu.com/p/1042ac6586ef)
+
+##### 实战
+[写一个登录的Demo](http://www.jianshu.com/p/dcaa25d33b0c)
+
+[实现RecyclerView多种Item布局](http://www.jianshu.com/p/8d9be20717c2)
+
 #### 实战 Kotlin 系列
 [项目配置和语言转换](https://zhuanlan.zhihu.com/p/27100220)
 

@@ -53,6 +53,28 @@ A curated list of awesome Kotlin libraries and projects.
 
 [Kotlin 在安卓中的一些tips](http://blog.csdn.net/cysion1989/article/details/72648052)
 
+[Kotlin一些高阶函数的使用](http://www.jianshu.com/p/03db2203e0f2)
+
+[Kotlin学习之委托机制](http://blog.csdn.net/u014134488/article/details/51123805)
+
+[用Kotlin写响应式编程RxAndroid](http://blog.csdn.net/u014134488/article/details/50888240)
+
+[kotlin学习之嵌套类](http://blog.csdn.net/u014134488/article/details/51066673)
+
+[Kotlin学习之枚举类](http://blog.csdn.net/u014134488/article/details/51075725)
+
+[Kotlin学习之object表达式和声明](http://blog.csdn.net/u014134488/article/details/51094371)
+
+[Kotlin学习之函数](http://blog.csdn.net/u014134488/article/details/51145329)
+
+[写给Android开发者的Kotlin入门](http://www.jianshu.com/p/bb53cba6c8f4)
+
+[Android必备技能之一：Kotlin(一)](http://www.jianshu.com/p/dffe80f4486e)
+
+[Android必备技能之一：Kotlin(二)](http://www.jianshu.com/p/b0f7320eaa5b)
+
+[让你的 Kotlin 代码远离 !!](https://zhuanlan.zhihu.com/p/27285806)
+
 [Hello Kotlin](http://www.jianshu.com/p/b7381aec4eab)
 
 [Kotlin 初探](http://android.jobbole.com/85405/)

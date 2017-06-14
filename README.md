@@ -20,6 +20,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 [快速上手 Kotlin 的 11 招](https://mp.weixin.qq.com/s/lDBSi2E5_u8dJg21wubH4Q)
 
+[关于Kotlin需要知道的一切](http://www.jackywang.tech/2017/06/12/%E5%85%B3%E4%BA%8EKotlin%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%80%E5%88%87/)
+
 ### 站点
 [Kotlin 语言中文站](https://www.kotlincn.net/docs/reference/)
 

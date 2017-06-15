@@ -482,6 +482,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Kotlin 函数与函数式编程](https://pqpo.me/2017/05/25/kotlin-function/)
 
+- [Kotlin 语法上的一些亮眼操作](http://www.jianshu.com/p/edd58f9134cc)
+
 ### 实战
 - [用 Kotlin 实现简单的自定义ActionSheetView](http://www.jianshu.com/p/d4c294b796e6)
 

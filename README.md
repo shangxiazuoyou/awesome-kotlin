@@ -42,6 +42,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [为什么我要改用Kotlin](http://droidyue.com/blog/2017/05/18/why-do-i-turn-to-kotlin/)
 
+- [我讨厌 Kotlin 的一些地方](https://github.com/xitu/gold-miner/blob/master/TODO/what-i-hate-in-kotlin.md)
+
 ### 文章
 - [Kotlin for Android入门整理](http://www.liumengchn.win/2017/05/25/about-kotlin/)
 

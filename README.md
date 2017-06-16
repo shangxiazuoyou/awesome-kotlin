@@ -597,6 +597,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [KotlinNews](https://github.com/frendyxzc/KotlinNews) -a demo of Kotlin
 
+### 数据库
+- [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作
+好处是可以直接使用对象进行数据操作，不需要再次使用对象转成 ContentValues 那么麻烦
+
 ### 构建工具
 - [kobalt](http://beust.com/kobalt/home/index.html/)  一个用 Kotlin 写的多功能构建工具
 

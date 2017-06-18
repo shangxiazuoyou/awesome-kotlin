@@ -119,6 +119,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Kotlin 全面替代 Java 可能只是时间问题](https://zhuanlan.zhihu.com/p/27055748)
 
+- [Android遇上Kotlin | 第一部分第一课 : Kotlin若只如初见](https://juejin.im/post/594520f68d6d810058e2483d)
+
 #### 沪江技术学院
 - [连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
 
@@ -600,6 +602,8 @@ A curated list of awesome Kotlin libraries and projects.
 - [KotlinNews](https://github.com/frendyxzc/KotlinNews) -a demo of Kotlin
 
 - [SimpleWeather](https://github.com/sfyc23/SimpleWeather) - a simple weather app with kotlin
+
+- [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) -:rocket: An Android project template using Kotlin/MVP/ReactiveX. It provides a generator to fast create a Kotlin Android template project
 
 ### 数据库
 - [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作

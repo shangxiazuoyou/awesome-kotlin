@@ -605,6 +605,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) -:rocket: An Android project template using Kotlin/MVP/ReactiveX. It provides a generator to fast create a Kotlin Android template project
 
+- [Weather](https://github.com/fanturbo/Weather) -Kotlin编写的一个天气app
+
 ### 数据库
 - [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作
 好处是可以直接使用对象进行数据操作，不需要再次使用对象转成 ContentValues 那么麻烦

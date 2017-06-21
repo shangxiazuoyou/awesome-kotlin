@@ -488,6 +488,16 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Kotlin 语法上的一些亮眼操作](http://www.jianshu.com/p/edd58f9134cc)
 
+- [基于 Kotlin 实现三种 RxBus](https://juejin.im/entry/5948be4efe88c2006a9380ad)
+
+- [Kotlin实现多函数接口的简化调用](http://blog.csdn.net/cysion1989/article/details/73431003)
+
+- [深入理解 Kotlin 协程 Coroutine（3）](https://juejin.im/entry/59477a5c5c497d006bf49f24)
+
+- [Kotlin: Android Extensions 小坑](https://juejin.im/entry/59477be1128fe1006a4dcb2b)
+
+- [http://yangchaojiang.cn/2017/06/08/kotlin-blod/](http://yangchaojiang.cn/2017/06/08/kotlin-blod/)
+
 ### 实战
 - [用 Kotlin 实现简单的自定义ActionSheetView](http://www.jianshu.com/p/d4c294b796e6)
 

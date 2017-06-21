@@ -425,6 +425,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [从内联函数到泛型数组：几个 Kotlin 高级特性的坑（下）](https://zhuanlan.zhihu.com/p/27283234)
 
+- [深入理解 Kotlin 类属性](https://zhuanlan.zhihu.com/p/27493630)
+
 - [GitBook](https://cnife.gitbooks.io/kotlin/content/)
 
 ### 知乎 Kotlin 话题

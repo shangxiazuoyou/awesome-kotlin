@@ -621,6 +621,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [SkeletonLoadingView](https://github.com/omjoonkim/SkeletonLoadingView) -SkeletonLoadingView with Kotlin :skull::skull:
 
+- [GankKotlin](https://github.com/ClaymanTwinkle/GankKotlin) -kotlin实现的一个简易的gank app
+
 ### 数据库
 - [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作
 好处是可以直接使用对象进行数据操作，不需要再次使用对象转成 ContentValues 那么麻烦

@@ -623,6 +623,10 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [GankKotlin](https://github.com/ClaymanTwinkle/GankKotlin) -kotlin实现的一个简易的gank app
 
+- [BigHead](https://github.com/byblinkdagger/BigHead) -a kotlin app
+
+- [kotlindemo](https://github.com/jiangzehui/kotlindemo) -a kotlin app demo
+
 ### 数据库
 - [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作
 好处是可以直接使用对象进行数据操作，不需要再次使用对象转成 ContentValues 那么麻烦

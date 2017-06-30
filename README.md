@@ -5,12 +5,14 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [anko](https://github.com/Kotlin/anko) -Pleasant Android application development
 
-#### 中文翻译
+#### 译文
 - [Kotlin in Chinese](https://github.com/huanglizhuo/kotlin-in-chinese)
 
 - [Kotlin Android Extensions](http://blog.csdn.net/poorkick/article/details/72465721)
 
 - [Kotlin 类型层级结构一览](http://www.demojameson.com/2017/05/29/a-whirlwind-tour-of-the-kotlin-type-hierarchy/)
+
+- [说服Kotlin编译器代码安全](https://juejin.im/post/5955a78cf265da6c2810a9ff)
 
 ### 环境配置
 - [使用Kotlin开发Android 创建工程与配置](http://www.jianshu.com/p/1f1d1000f146)
@@ -120,6 +122,14 @@ A curated list of awesome Kotlin libraries and projects.
 - [Kotlin 全面替代 Java 可能只是时间问题](https://zhuanlan.zhihu.com/p/27055748)
 
 - [Android遇上Kotlin | 第一部分第一课 : Kotlin若只如初见](https://juejin.im/post/594520f68d6d810058e2483d)
+
+- [Kotlin 心得](http://chanchangxing.me/2017/06/25/kotlin/)
+
+- [Android kotlin 委托](http://www.jianshu.com/p/c8b21a5eea34)
+
+- [Kotlin一些高阶函数的使用](http://www.jianshu.com/p/03db2203e0f2)
+
+- [Kotlin学习之委托机制](http://blog.csdn.net/u014134488/article/details/51123805)
 
 #### 沪江技术学院
 - [连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
@@ -428,6 +438,11 @@ A curated list of awesome Kotlin libraries and projects.
 - [深入理解 Kotlin 类属性](https://zhuanlan.zhihu.com/p/27493630)
 
 - [GitBook](https://cnife.gitbooks.io/kotlin/content/)
+
+#### Kotlin 学习笔记
+- [走进Kotlin的世界](http://blog.coderclock.com/2017/06/11/kotlin/kotlin-lessons-0/)
+
+- [变量与函数](http://blog.coderclock.com/2017/06/25/kotlin/kotlin-notes-1/)
 
 ### 知乎 Kotlin 话题
 > 在知乎 Kotlin 话题下选取了部分比较有代表性的问答，持续关注并整理更新。

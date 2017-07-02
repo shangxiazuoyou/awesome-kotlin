@@ -14,6 +14,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [说服Kotlin编译器代码安全](https://juejin.im/post/5955a78cf265da6c2810a9ff)
 
+- [Kotlin 在 Android 开发中的 16 个建议](https://mp.weixin.qq.com/s/0kE-u6jH7BbgkRWEgHfRQg)
+
 ### 环境配置
 - [使用Kotlin开发Android 创建工程与配置](http://www.jianshu.com/p/1f1d1000f146)
 

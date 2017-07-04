@@ -133,6 +133,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Kotlin学习之委托机制](http://blog.csdn.net/u014134488/article/details/51123805)
 
+- [Kotlin 基础学习+快速实践](https://juejin.im/post/595360495188250d9017dfd3)
+
 #### 沪江技术学院
 - [连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
 
@@ -643,6 +645,8 @@ A curated list of awesome Kotlin libraries and projects.
 - [BigHead](https://github.com/byblinkdagger/BigHead) -a kotlin app
 
 - [kotlindemo](https://github.com/jiangzehui/kotlindemo) -a kotlin app demo
+
+- [Kotlin-mvpro](https://github.com/vihuela/Kotlin-mvpro) -Kotlin databinding mvp rx
 
 ### 数据库
 - [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作

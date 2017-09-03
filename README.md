@@ -308,6 +308,15 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [译 Kotlin VS Java:编译速度大比拼](http://androidwing.net/index.php/150)
 
+#### Kotlin 开发经验谈系列
+- [kotlin开发经验谈1](http://www.jianshu.com/p/dc84b1d78360)
+
+- [kotlin开发经验谈3](http://www.jianshu.com/p/0b9305eb3d1d)
+
+- [kotlin开发经验谈4](http://www.jianshu.com/p/e049874bec99)
+
+- [kotlin开发经验谈5](http://www.jianshu.com/p/8f0cc4eb409e)
+
 #### Kotlin for Android 系列
 - [（一）准备工作](http://wuxiaolong.me/2017/05/21/kotlin1/)
 

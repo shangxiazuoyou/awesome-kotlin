@@ -519,6 +519,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [http://yangchaojiang.cn/2017/06/08/kotlin-blod/](http://yangchaojiang.cn/2017/06/08/kotlin-blod/)
 
+- [Kotlin 常用扩展函数搜集](http://kotlinextensions.com/)
+
 ### 实战
 - [用 Kotlin 实现简单的自定义ActionSheetView](http://www.jianshu.com/p/d4c294b796e6)
 

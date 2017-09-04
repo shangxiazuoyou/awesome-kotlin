@@ -135,6 +135,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Kotlin 基础学习+快速实践](https://juejin.im/post/595360495188250d9017dfd3)
 
+- [Kotlin 初探](https://blog.dreamtobe.cn/2016/11/30/kotlin/)
+
 #### 沪江技术学院
 - [连载|使用 Kotlin 开发 Android](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516178&idx=1&sn=e869ebd38fcdecf0a8f1e0d2ccc79076&chksm=f1efe819c698610f1a95969dbe5fc3fe385d62116913a8c6c859f4d80b69775c7de6d95c87e2#rd)
 
@@ -284,6 +286,10 @@ A curated list of awesome Kotlin libraries and projects.
 - [可见性修饰符和数据类](http://www.jianshu.com/p/3ea77c686993)
 
 - [泛型(Generics)](http://www.jianshu.com/p/1042ac6586ef)
+
+- [Kotlin 运行时性能](https://blog.dreamtobe.cn/kotlin-performance/)
+
+- [Kotlin Coroutines(协程)](https://blog.dreamtobe.cn/kotlin-coroutines/)
 
 ##### 实战
 - [写一个登录的Demo](http://www.jianshu.com/p/dcaa25d33b0c)

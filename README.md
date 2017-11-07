@@ -235,6 +235,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [第六章·集合泛型与操作符](https://kymjs.com/code/2017/06/06/01/)
 
+- [第七章·协程库（中篇）](https://kymjs.com/code/2017/11/06/01/)
+
 ### 基础
 - [基本语法1](http://ltlovezh.com/2016/04/17/Kotlin%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%951/)
 

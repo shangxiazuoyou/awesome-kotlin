@@ -49,6 +49,8 @@ A curated list of awesome Kotlin libraries and projects.
 - [我讨厌 Kotlin 的一些地方](https://github.com/xitu/gold-miner/blob/master/TODO/what-i-hate-in-kotlin.md)
 
 ### 文章
+- [又一系列](http://caimuhao.com/)
+
 - [Kotlin for Android入门整理](http://www.liumengchn.win/2017/05/25/about-kotlin/)
 
 - [一张图，三分钟，掌握 Swift & Kotlin](https://mp.weixin.qq.com/s?__biz=MzI1MTE2NTE1Ng==&mid=2649516190&idx=1&sn=e1205af631a724d6f7da13c66a1b339f&chksm=f1efe815c69861037626cbfa7696318c0ead128ab04a216cb3b2751580a7c81587351a818204#rd)

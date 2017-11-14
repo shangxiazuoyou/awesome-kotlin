@@ -671,6 +671,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) -使用Kotlin撸一款Eyepetizer，学习Kotlin语言
 
+- [kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) -Kotlin for android developers in chinese
+
 ### 数据库
 - [KotlinDatabase](https://github.com/Ruanjiahui/KotlinDatabase) -这个依赖包主要解决了 android 使用本地数据库的繁琐操作
 好处是可以直接使用对象进行数据操作，不需要再次使用对象转成 ContentValues 那么麻烦

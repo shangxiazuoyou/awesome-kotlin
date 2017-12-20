@@ -5,6 +5,8 @@ A curated list of awesome Kotlin libraries and projects.
 
 - [anko](https://github.com/Kotlin/anko) -Pleasant Android application development
 
+- [iOS 工程师通过 Kotlin 学习 Android 开发的30天](https://android.devdon.com/series)
+
 #### 译文
 - [Kotlin in Chinese](https://github.com/huanglizhuo/kotlin-in-chinese)
 
